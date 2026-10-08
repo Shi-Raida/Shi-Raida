@@ -1,13 +1,14 @@
-### Hi, I'm Roland 👋
+Freelance engineer based near Toulouse, working as [Raida](https://raida.fr).
 
-PhD in Computer Science & Robotics (INSA Toulouse, LAAS-CNRS, ONERA), freelance engineer at [Raida AE](https://raida.fr).
+I did my PhD at LAAS-CNRS on automated planning for robot fleets, mostly by writing a lot of Rust in [Aries](https://github.com/plaans/aries). These days I split my time between ground robots, backends, and the infrastructure that runs them.
 
-- 🤖 **Robotics**: ROS 2, Nav2, multi-sensor localization, field-tested ground robots
-- 🦀 **Systems**: Rust (Tokio, Axum, r2r), automated planning and constraint solving
-- 🌐 **Backend & web**: Python (FastAPI), TypeScript (Node, React), Go, PostgreSQL
-- 🚢 **DevOps**: Docker, Kubernetes, GitOps, CI/CD
-- 🧠 **AI**: LLM integrations, RAG, agentic tooling
+- **Robotics**: ROS 2, Nav2, localization and sensor fusion, Gazebo, field testing
+- **Systems**: Rust (Tokio, Axum, r2r), automated planning, constraint solving
+- **Backend & web**: Python (FastAPI), TypeScript (Node, React), Go, PostgreSQL
+- **Mobile**: Flutter, Dart
+- **Infrastructure**: Docker, Kubernetes, GitHub Actions, self-hosting
+- **AI**: LLM integrations, RAG, coding agents
 
-Main open-source work: [Aries](https://github.com/plaans/aries), an automated planner for temporal, numeric and hierarchical problems, published at ECAI, ICAPS and IEEE ICTAI.
+Most of my work happens in private client repositories, so the activity graph tells more than the repo list.
 
-📫 [raida.fr](https://raida.fr) - [rgodet@raida.fr](mailto:rgodet@raida.fr)
+[raida.fr](https://raida.fr) · [LinkedIn](https://www.linkedin.com/in/roland-godet)
