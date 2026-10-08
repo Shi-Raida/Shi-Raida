@@ -1,4 +1,4 @@
-Freelance engineer based near Toulouse, working as [Raida](https://raida.fr).
+Freelance engineer based near Toulouse, running [Raida AE](https://raida.fr).
 
 I did my PhD at LAAS-CNRS on automated planning for robot fleets, mostly by writing a lot of Rust in [Aries](https://github.com/plaans/aries). These days I split my time between ground robots, backends, and the infrastructure that runs them.
 
@@ -11,4 +11,6 @@ I did my PhD at LAAS-CNRS on automated planning for robot fleets, mostly by writ
 
 Most of my work happens in private client repositories, so the activity graph tells more than the repo list.
 
-[raida.fr](https://raida.fr) · [LinkedIn](https://www.linkedin.com/in/roland-godet)
+[raida.fr](https://raida.fr)
+
+[rgodet@raida.fr](mailto:rgodet@raida.fr)
